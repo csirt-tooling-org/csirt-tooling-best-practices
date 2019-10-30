@@ -9,6 +9,7 @@ In the document, a set of best practices is described to help CSIRTs to develop,
 ## Document
 
 - Source of [CSIRT Tooling: Best Practices in Developing, Maintaining and Distributing Open Source Tools](best-practices.md)
+- PDF : [CSIRT Tooling: Best Practices in Developing, Maintaining and Distributing Open Source Tools](best-practices.pdf)
 
 ## Additional Documents
 
