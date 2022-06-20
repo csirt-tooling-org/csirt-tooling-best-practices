@@ -13,7 +13,7 @@ In the document, a set of best practices is described to help CSIRTs to develop,
 ## Additional Documents
 
 - Slides: [CSIRT Tooling - Best Practices](./slides/csirt-tooling-policy.pdf)
-- [Tooling directory](//www.github.com/csirt-tooling/tooling-directory)
+- [Tooling directory](//www.github.com/csirt-tooling-org/tooling-directory)
 
 ## Contributing
 
