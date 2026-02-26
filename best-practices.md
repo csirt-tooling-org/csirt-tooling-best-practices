@@ -133,7 +133,7 @@ Developing CSIRT tooling within an open source methodology allows to reach new a
 
 ## Existing CSIRT tooling
 
-A [tooling directory](https://www.github.com/csirt-tooling/tooling-directory) is available and maintained by the Tooling WG of the CSIRTs network.
+A [tooling directory](https://www.github.com/csirt-tooling-org/tooling-directory) is available and maintained by the Tooling WG of the CSIRTs network.
 
 ## Revision of the document
 
@@ -152,4 +152,4 @@ The contributors to the document are:
 
 ## Contact and Collaboration
 
-If you have any question or suggestion about this topic, feel free to [contact us](https://www.github.com/csirt-tooling/csirt-tooling-best-practices) by opening an issue. This document is a collaborative effort where external [contributors can propose changes and improvement](https://www.github.com/csirt-tooling/csirt-tooling-best-practices) to the document.
+If you have any question or suggestion about this topic, feel free to [contact us](https://www.github.com/csirt-tooling-org/csirt-tooling-best-practices) by opening an issue. This document is a collaborative effort where external [contributors can propose changes and improvement](https://www.github.com/csirt-tooling-org/csirt-tooling-best-practices) to the document.
