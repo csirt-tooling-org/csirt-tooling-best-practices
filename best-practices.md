@@ -1,7 +1,7 @@
 ---
 title: "CSIRT Tooling: Best Practices in Developing, Maintaining and Distributing Open Source Tools"
 author: Tooling WG - CSIRTs Network
-date: 2019-10-29
+date: 2026-02-26
 tags: [open source, csirt, cert, tooling, software, free software]
 titlepage: true
 toc-own-page: true
